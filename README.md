@@ -32,18 +32,5 @@ Handwriting recognition is a challenging task due to the inherent variability in
 - **Comparison**: Model 2 outperformed Model 1 in terms of accuracy and robustness.
 - **Conclusion**: The combination of fuzzy logic, neural networks, and evolutionary computing provides a powerful approach to handwriting prediction.
 
-## Contributors
-- **Tan Shun Qi**
-- **Carmen Lam Kah Man**
-- **Lee Zia Qian**
-- **Dernice Lee Tian Yi**
-- **Lim Shi Ting**
-
-## Supervisor
-- **Dr. Liew Wei Shiung**
-
 ## Course
 This project was completed as part of the **WIX3001 Soft Computing course** in Year 2 at the **University of Malaya, Malaysia**.
-
-## License
-This project is licensed under the MIT License.
